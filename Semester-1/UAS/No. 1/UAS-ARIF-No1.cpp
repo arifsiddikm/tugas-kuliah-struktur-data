@@ -1,3 +1,9 @@
+/*
+Nama : Arif Siddik Muharam 
+NIM : 220040003 
+Fakultas Ilmu Komputer - Teknik Informatika - Semester 1 
+UAS - Struktur Data 
+*/
 // Program Enkripsi dan Dekripsi Teks menggunakan Algoritma Caesar Cipher
 #include <iostream>
 #include <string.h>
